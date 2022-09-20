@@ -10,6 +10,9 @@
 [submodule "AirPlaneDesign"]
 	path = AirPlaneDesign
 	url = https://github.com/FredsFactory/FreeCAD_AirPlaneDesign
+[submodule "Alternate_OpenSCAD"]
+	path = Alternate_OpenSCAD
+	url = https://github.com/KeithSloan/OpenSCAD_Alt_Import.git
 [submodule "animation"]
 	path = animation
 	url = https://github.com/microelly2/Animation.git
@@ -129,7 +132,7 @@
 [submodule "fasteners"]
 	path = fasteners
 	url = https://github.com/shaise/FreeCAD_FastenersWB.git
-[submodule "fcgear"]
+[submodule "freecad.gears"]
 	path = freecad.gears
 	url = https://github.com/looooo/freecad.gears
 [submodule "FeedsAndSpeeds"]
@@ -147,6 +150,7 @@
 [submodule "GDML"]
 	path = GDML
 	url = https://github.com/KeithSloan/GDML
+	branch = Main
 [submodule "GDT"]
 	path = GDT
 	url = https://github.com/juanvanyo/FreeCAD-GDT.git
@@ -320,6 +324,10 @@
 [submodule "timber"]
 	path = timber
 	url = https://github.com/wood-galaxy/FreeCAD-Timber.git
+[submodule "toSketch"]
+	path = toSketch
+	url = https://github.com/KeithSloan/toSketch.git
+	branch = main
 [submodule "ToolbarStyle"]
 	path = ToolbarStyle
 	url = https://github.com/triplus/ToolbarStyle
